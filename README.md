@@ -22,6 +22,8 @@ Tenemos la escena [TestScene.unity](Assets/Scenes/TestScene.unity) en la cual te
 
 ![](img/testsceneresultado.PNG)
 
+![](img/testscene.gif)
+
 ### Ninguno de los objetos será físico.
 
 Aquí los dos gameobjects "flotan". Se quedan en la posición inicial.
@@ -61,6 +63,8 @@ De esta manera si activamos en la escena sólo el caso que queremos comprobar po
 Para esto se ha usado el mapa de la primera tarea.
 
 ![](img/mapa.PNG)
+
+![](img/movement.gif)
 
 ### Objeto estático que ejerce de barrera infranqueable.
 
